@@ -109,7 +109,7 @@
             <span>Leaving:</span>
             <p><?php echo htmlspecialchars($_GET['leaving']); ?></p>
         </div>
-        <a href="all_bookings.php" class="btn">View All Bookings</a>
+        <a href="allbookings.php" class="btn">View All Bookings</a>
     </div>
 </section>
 
