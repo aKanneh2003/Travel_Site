@@ -55,8 +55,8 @@
 
    <div class="content">
       <h3>why choose us?</h3>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure numquam nulla iusto corporis dolor commodi libero, vitae obcaecati optio rerum ab culpa nesciunt, earum mollitia quasi ipsam non. Aliquid, iure.</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid rerum, delectus voluptate aliquam quaerat iusto repellendus error nulla ab atque.</p>
+      <p>Choose us for your next adventure because we're more than just a travel agency. With personalized itineraries, expert guidance, and a passion for exploration, we turn your dream trip into a reality. Whether you seek adrenaline-fueled escapades or tranquil getaways, we tailor experiences that match your wanderlust. Join us and embark on unforgettable journeys filled with discovery, connection, and lifelong memories .</p>
+      <p>.</p>
       <div class="icons-container">
          <div class="icons">
             <i class="fas fa-map"></i>
