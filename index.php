@@ -135,7 +135,7 @@
 
    <div class="content">
       <h3>about us</h3>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
+      <p>We are a prestigiuos travel company and we pride ourselves in delivery your specific needs</p>
       <a href="about.php" class="btn">read more</a>
    </div>
 
