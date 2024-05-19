@@ -56,7 +56,7 @@
    <div class="content">
       <h3>why choose us?</h3>
       <p>Choose us for your next adventure because we're more than just a travel agency. With personalized itineraries, expert guidance, and a passion for exploration, we turn your dream trip into a reality. Whether you seek adrenaline-fueled escapades or tranquil getaways, we tailor experiences that match your wanderlust. Join us and embark on unforgettable journeys filled with discovery, connection, and lifelong memories .</p>
-      <p>.</p>
+      
       <div class="icons-container">
          <div class="icons">
             <i class="fas fa-map"></i>
@@ -95,7 +95,7 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
+            <p>"Absolutely amazing! From start to finish, our experience with Travel site exceeded all expectations. The attention to detail, friendly staff, and seamless organization made our trip unforgettable. We can't wait to book with them again!"</p>
             <h3>john deo</h3>
             <span>traveler</span>
             <img src="images/pic-1.png" alt="">
@@ -108,7 +108,7 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus repellendus et suscipit optio similique totam aut laborum ullam sequi! In!</p>
+            <p>"Exceptional service! Travel Site went above and beyond to make our vacation unforgettable. From breathtaking destinations to impeccable accommodations, every aspect of our journey was meticulously planned. Thank you for creating memories that will last a lifetime!"</p>
             <h3>john deo</h3>
             <span>traveler</span>
             <img src="images/pic-2.png" alt="">
@@ -120,7 +120,7 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus enim deserunt, ab at ea iste odio placeat doloribus eum dolores tempore obcaecati, dolore esse aperiam. Excepturi ad quo distinctio, dignissimos voluptate, dolores, saepe animi eum atque sint esse ab exercitationem!</p>
+            <p>"Incredible experience! Travel site made our dream vacation a reality. From the moment we booked, their team provided unparalleled support and expertise. Every detail was carefully curated, ensuring a seamless and unforgettable adventure. We can't wait to explore with them again!"</p>
             <h3>john deo</h3>
             <span>traveler</span>
             <img src="images/pic-3.png" alt="">
